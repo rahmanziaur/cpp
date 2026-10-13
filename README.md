@@ -1,3 +1,13 @@
+
+
+<iframe
+  src="https://docs.google.com/gview?embedded=1&url=YOUR_PUBLIC_PDF_URL"
+  width="100%"
+  height="600"
+  style="border: none;">
+</iframe>
+
+
 # Object‑Oriented Programming Lab — Course Completion Plan (OBE)
 
 | | |
