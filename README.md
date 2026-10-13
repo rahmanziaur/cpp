@@ -3,7 +3,8 @@
 
 [**Read the Complete Guide (PDF)**](https://github.com/rahmanziaur/cpp/blob/main/Books%20and%20Tutorials/Mastering%20Object-Oriented%20Programming%20(OOP)%20in%20C%2B%2B_%20A%20Comprehensive%20Guide%20_%20by%20Ankit%20Singh%20_%20Medium.pdf)
 
-
+## YouTube Video Demonstration
+<iframe width="1337" height="752" src="https://www.youtube.com/embed/z2jDamkbBF0" title="How to Setup C/C++ in VS Code [Updated 2025] Complete Installation with example | Amit Thinks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Object‑Oriented Programming Lab — Course Completion Plan (OBE)
 
