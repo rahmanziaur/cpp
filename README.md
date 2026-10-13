@@ -1,11 +1,8 @@
 
+## 📘 Mastering Object-Oriented Programming in C++
 
-<iframe
-  src="https://docs.google.com/gview?embedded=1&url=YOUR_PUBLIC_PDF_URL"
-  width="100%"
-  height="600"
-  style="border: none;">
-</iframe>
+[**Read the Complete Guide (PDF)**](https://github.com/rahmanziaur/cpp/blob/main/Books%20and%20Tutorials/Mastering%20Object-Oriented%20Programming%20(OOP)%20in%20C%2B%2B_%20A%20Comprehensive%20Guide%20_%20by%20Ankit%20Singh%20_%20Medium.pdf)
+
 
 
 # Object‑Oriented Programming Lab — Course Completion Plan (OBE)
